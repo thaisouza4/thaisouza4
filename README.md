@@ -1,9 +1,14 @@
+<img src="https://github.com/thaisouza4/thaisouza4/blob/388226dd961d1c6d4349f4161ba38bb3818ac5d9/gato-bonito-com-ilustracao-de-icone-de-vetor-de-desenho-animado-portatil-conceito-de-icone-de-tecnologia-animal-isolado-vetor-premium-estilo-flat-cartoon_138676-3698-removebg-preview.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left">
+
 Olá! 👋 Bem-vindo ao meu perfil do GitHub.
 
 Sou Thais Souza, estudante do Tecnólogo em Sistemas para Internet, atualmente mergulhando nas linguagens Python e JavaScript. Estou em um emocionante processo de transição de carreira e atualmente no primeiro ano do curso.
 
 <h1>Sobre Mim</h1> 
-🎓 Estudante de Tecnólogo em Sistemas para Internet.<br>
+🎓 Bacharela em Ciências Contábeis - Universidade Estadual da Paraíba (UEPB).<br>
+🎓 Estudante de Tecnólogo em Sistemas para Internet - UniFatecie.<br>
 💻 Apaixonada por programação em Python e JavaScript.<br>
 🌱 Em constante aprendizado e evolução.<br>
 
