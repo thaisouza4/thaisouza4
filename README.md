@@ -2,14 +2,14 @@
 
 <p align="left">
 
-Olá! 👋 Bem-vindo ao meu perfil do GitHub.
+Olá! 👋 Bem-vindo(a) ao meu perfil do GitHub.
 
 Sou Thais Souza, estudante do Tecnólogo em Sistemas para Internet, atualmente mergulhando nas linguagens Python e JavaScript. Estou em um emocionante processo de transição de carreira e atualmente no primeiro ano do curso.
 
 <h1>Sobre Mim</h1> 
 🎓 Bacharela em Ciências Contábeis - Universidade Estadual da Paraíba (UEPB).<br>
 🎓 Estudante de Tecnólogo em Sistemas para Internet - UniFatecie.<br>
-💻 Apaixonada por programação em Python e JavaScript.<br>
+💻 Apaixonada por gatos, tecnologia e me aventurando na programação em Python e JavaScript.<br>
 🌱 Em constante aprendizado e evolução.<br>
 
 <h1>Linguagens</h1>
