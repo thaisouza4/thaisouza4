@@ -4,7 +4,7 @@
 
 Olá! 👋 Bem-vindo(a) ao meu perfil do GitHub.
 
-Sou Thais Souza, estudante do Tecnólogo em Sistemas para Internet, atualmente mergulhando nas linguagens Python e JavaScript. Estou em um emocionante processo de transição de carreira e atualmente no primeiro ano do curso.
+Sou Thais Souza, estudante do Tecnólogo em Sistemas para Internet, atualmente mergulhando nas linguagens Python e JavaScript. Estou em um emocionante processo de transição de carreira e atualmente finalizando o curso e buscando me desenvolver e aprimorar.
 
 <h1>Sobre Mim</h1> 
 🎓 Bacharela em Ciências Contábeis - Universidade Estadual da Paraíba (UEPB).<br>
